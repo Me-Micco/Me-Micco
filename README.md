@@ -1,6 +1,6 @@
 # Sachi's Github Corner 💻  
 
-![Hi! it's me Sachi Verma](https://i.postimg.cc/Xv6hC11Q/gif-1.gif)  
+<img src="https://i.postimg.cc/Xv6hC11Q/gif-1.gif" alt="Hi! it's me Sachi Verma" width="600"> 
 
 ---
 
@@ -84,9 +84,9 @@ A platform to empower women through technology, developed with HTML, CSS, and Ja
 
 ## Connect with Me  
 
-- 📧 **Email:** [your.email@domain.com](mailto:sachiverma2015@gmail.com)  
+- 📧 **Email:** [sachiverma2015@gmail.com](mailto:sachiverma2015@gmail.com)  
 - 💼 **LinkedIn:** [Sachi Verma](https://www.linkedin.com/in/sachi-verma-32888b22b)  
-- 🌐 **Portfolio:** [your-portfolio.com](https://www.your-portfolio.com)  
+- 🌐 **Portfolio:** [Sachi-Verma-portfolio.com](https://www.your-portfolio.com)  
 
   
 
