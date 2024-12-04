@@ -1,6 +1,6 @@
 # Sachi's Github Corner 💻  
 
-[![gif-1.gif](https://i.postimg.cc/Xv6hC11Q/gif-1.gif)](https://postimg.cc/fV5B4CN9) 
+![Hi! it's me Sachi Verma](https://i.postimg.cc/Xv6hC11Q/gif-1.gif)  
 
 ---
 
