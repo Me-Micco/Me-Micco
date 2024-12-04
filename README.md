@@ -1,9 +1,6 @@
 # Sachi's Github Corner 💻  
 
- 
-<img src="https://i.postimg.cc/Xv6hC11Q/gif-1.gif" alt="Hi! it's me Sachi Verma" width="600">
-
-
+[![gif-1.gif](https://i.postimg.cc/Xv6hC11Q/gif-1.gif)](https://postimg.cc/fV5B4CN9) 
 
 ---
 
