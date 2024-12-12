@@ -88,7 +88,7 @@ A platform to empower women through technology, developed with HTML, CSS, and Ja
 
 - 📧 **Email:** [sachiverma2015@gmail.com](mailto:sachiverma2015@gmail.com)  
 - 💼 **LinkedIn:** [Sachi Verma](https://www.linkedin.com/in/sachi-verma-32888b22b)  
-- 🌐 **Portfolio:** [Sachi-Verma-portfolio.com](https://www.your-portfolio.com)  
+- 🌐 **Portfolio:** [Sachi-Verma-portfolio.com](https://my-portfolio-sachi-verma.vercel.app)  
 
   
 
